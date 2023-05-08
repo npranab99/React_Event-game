@@ -1,0 +1,97 @@
+{
+  "user": [
+    {
+      "fname": "Roni",
+      "lname": "Dey",
+      "pass": "gfx",
+      "id": "Q77tdfz"
+    },
+    {
+      "fname": "zero",
+      "lname": "zero",
+      "id": "zero",
+      "pass": "123"
+    },
+    {
+      "fname": "Riya",
+      "lname": "dey",
+      "id": "riya@m",
+      "pass": "123"
+    },
+    {
+      "fname": "Abhishek",
+      "lname": "Bahrti",
+      "id": "bharti@gmail",
+      "pass": "1234"
+    }
+  ],
+  "event": [
+    {
+      "name": "Hi Stricker",
+      "id": 1,
+      "prize": "2500"
+    },
+    {
+      "name": "Punch Challange",
+      "id": 2,
+      "prize": "4000"
+    },
+    {
+      "name": "Bow & Arrow",
+      "id": 3,
+      "prize": "3000"
+    },
+    {
+      "name": "Catch Fish",
+      "id": 4,
+      "prize": "5000"
+    },
+    {
+      "name": "Hi Five",
+      "prize": "1500",
+      "id": 5
+    }
+  ],
+  "event_location": [
+    {
+      "id": 1,
+      "name": "Baghajatin, Kolkata, WB",
+      "Distance": "10"
+    },
+    {
+      "id": 2,
+      "name": "Garia, Kolkata, WB",
+      "Distance": "20"
+    },
+    {
+      "id": 3,
+      "name": "Sealdaha, Kolkata, WB",
+      "Distance": "15"
+    },
+    {
+      "id": 4,
+      "name": "Jadavpur, Kolkata, WB",
+      "Distance": "25"
+    }
+  ],
+  "check_out": [
+    {
+      "eventName": "Bow & Arrow",
+      "eventPrize": "3000",
+      "userId": "riya@m",
+      "id": 11
+    },
+    {
+      "eventName": "Hi Stricker",
+      "eventPrize": "2500",
+      "userId": "zero",
+      "id": 24
+    },
+    {
+      "eventName": "Punch Challange",
+      "eventPrize": "4000",
+      "userId": "zero",
+      "id": 28
+    }
+  ]
+}
